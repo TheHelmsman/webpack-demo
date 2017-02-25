@@ -1,0 +1,11 @@
+{
+	// "editor.fontFamily": "FiraCode-Retina",
+    "editor.fontFamily": "Operator Mono",
+    // Controls the line height. Use 0 to compute the lineHeight from the fontSize.
+    "editor.lineHeight": 20,
+    // Enables font ligatures
+    "editor.fontLigatures": true,
+	"editor.tabSize": 2,
+	"workbench.editor.enablePreviewFromQuickOpen": false,
+    "vsicons.presets.angular": false
+}
